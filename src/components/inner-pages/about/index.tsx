@@ -16,7 +16,7 @@ const About = () => {
       {/* <Counter padding={false} /> */}
       {/* <Video /> */}
       <AboutTwo />
-      <Testimonial padding={false} />
+      {/* <Testimonial padding={false} /> */}
       <FooterOne />
     </>
   );

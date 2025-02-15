@@ -2,7 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 
 import about_arrow from "@/assets/img/arrow-shape.png";
-import about_thumb from "@/assets/img/WhatsApp Image 2025-02-09 at 10.52.35 AM.jpeg";
+import about_thumb from "@/assets/img/sai spandana images/harmonium/harmonium_department_indian_classical_music (1).jpeg";
 
 interface ContentType {
   sub_title: string;
@@ -13,33 +13,35 @@ interface ContentType {
 }
 
 const about_content: ContentType = {
-  sub_title: "About Kanchan Ma’am",
-  title: "Empowering Minds, Transforming Lives",
+  sub_title: "About Sai spandana",
+  title: "Sai Spandana Musical Academy | Masterthe Art of Music",
   desc_1: (
     <>
-      Kanchan Ma’am is a renowned mindset coach, speaker, and trainer who has
-      dedicated her life to helping individuals unlock their full potential.
-      With years of experience in personal development, motivation, and
-      transformation, she has impacted thousands of lives through her powerful
-      seminars, webinars, and coaching programs.
+      Welcome to Sai Spandana Musical Academy, where passion transforms into
+      melody! Led by Dr. Neelam Patel, a maestro in Hindustani classical music,
+      and Prithvi Raj, an expert musician, our academy is a hub for learning and
+      experiencing the essence of Indian classical and contemporary music.
     </>
   ),
-  desc_2: (
-    <>
-      Her unique coaching style combines the principles of psychology,
-      neuroscience, and practical self-development techniques to create lasting
-      change. Whether you’re an entrepreneur, professional, student, or someone
-      seeking personal growth, Kanchan Ma’am’s guidance can help you break
-      through mental barriers, develop an unshakable mindset, and achieve your
-      biggest goals.
-    </>
-  ),
+  desc_2: <></>,
   list: [
-    <>Certified Mindset Trainer & Life Coach</>,
-    <> Speaker at National & International Seminars</>,
-    <>Expert in Emotional Intelligence & Self-Mastery</>,
-    <>Trained Thousands of Individuals & Professionals</>,
-    <>Proven Techniques for Mindset Transformation</>,
+    <>
+      Comprehensive Courses – Hindustani Vocals, Tabla, Harmonium, Ghazal, Sufi
+      & More
+    </>,
+    <>
+      {" "}
+      Certified Instructors – Learn from experienced artists & industry
+      professionals
+    </>,
+    <>
+      Personalized Learning – Tailored lessons for beginners to advanced
+      students
+    </>,
+    <>Live Performances & Events – Get real-world stage experience</>,
+    <>
+      Flexible Learning Modes – Join from anywhere with online & offline classes
+    </>,
   ],
 };
 

@@ -34,7 +34,9 @@ const Service = () => {
                     <h6>
                       <span>{item.title} </span>
                     </h6>
-                    <p>{item.desc}</p>
+                    <div dangerouslySetInnerHTML={{ __html: item.desc }}>
+                      {}
+                    </div>
                   </div>
                 </div>
               </div>

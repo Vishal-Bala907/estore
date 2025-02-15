@@ -30,32 +30,68 @@ const service_data: DataType[] = [
     page: "home_1",
     data_wow_delay: "0.3s",
     icon: service_Icon4,
-    title: "Personal Growth Coaching",
-    desc: "Transform your mindset to achieve success in life & work. Identify and eliminate mental roadblocks. Develop a positive and growth-oriented mindset.Build confidence and leadership skills.",
+    title: "Vocals Department",
+    desc: `<ol type="1">
+            <li>Hindustani Classical Vocals (Beginner) – Learn Swara, Alankars & Raagas</li>
+            <li>Advanced Hindustani Vocals – Master Raag development & Bandish</li>
+            <li>Tabla for Live
+Accompaniment – Master the art of playing alongside vocals</li>
+            <li>Fusion & Experimental
+Tabla – Blend traditional beats with modern styles
+</li>
+          </ol>`,
   },
   {
     id: 2,
     page: "home_1",
     data_wow_delay: "0.5s",
     icon: service_Icon5,
-    title: "Business & Career Mindset Training",
-    desc: "Unlock professional success with a winning mindset. Goal setting and strategic thinking. Leadership and decision-making skills. High-performance habits for business growth.  ",
+    title: "Harmonium Department",
+    desc: `<ol type="1">
+            <li>Harmonium Basics – Learn keys, notes & playing techniques</li>
+            <li>Raag-Based
+Harmonium – Explore classical & semi-classical playing styles</li>
+            <li>Live Performance
+Harmonium – Techniques for accompanying singers & instrumentalists</li>
+            <li>Ghazal &
+Bhajan Harmonium – Specialize in expressive playing for devotional music
+</li>
+          </ol>`,
   },
   {
     id: 3,
     page: "home_1",
     data_wow_delay: "0.7s",
     icon: service_Icon6,
-    title: "Seminar & Webinar Programs",
-    desc: " Live and online sessions to empower individuals and teams. Interactive training on self-motivation, leadership & productivity. Custom-designed workshops for organizations & students. Real-life strategies for achieving excellence. ",
+    title: "Live Music & Performance Training",
+    desc: `<ol type="1">
+            <li>Stage Performance Mastery – Overcome stage fear & build confidence</li>
+            <li>Sound &
+Microphone Handling – Learn technical aspects of live shows</li>
+            <li>Fusion &
+Contemporary Music – Blend Indian classical with modern music</li>
+            <li>Professional Artist
+Development – Get trained for concerts & industry gigs
+</li>
+          </ol>`,
   },
   {
     id: 4,
     page: "home_1",
     data_wow_delay: "0.3s",
     icon: service_Icon4,
-    title: "Emotional Intelligence & Stress Management",
-    desc: "Master your emotions and build resilience. Techniques to handle stress and anxiety. Develop emotional intelligence for better relationships. Practical strategies to improve focus and well-being. ",
+    title: "Tabla Department",
+    desc: `<ol type="1">
+              <li>Basic Tabla Techniques – Understanding Taal, Theka & hand positioning</li>
+              <li>Advanced
+Tabla Training – Learn Kayda, Rela & complex rhythms</li>
+              <li>Tabla for Live
+Accompaniment – Master the art of playing alongside vocals</li>
+              <li>Fusion & Experimental
+Tabla – Blend traditional beats with modern styles
+
+  </li>
+            </ol>`,
   },
   //   {
   //     id: 5,

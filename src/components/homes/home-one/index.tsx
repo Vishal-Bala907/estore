@@ -29,7 +29,7 @@ const HomeOne = () => {
         <MarqueSection />
         <Service />
         {/* <Project /> */}
-        <About />
+        {/* <About /> */}
         {/* certificate */}
         {/* <Certificate /> */}
         {/* <Counter padding={true} /> */}
@@ -62,7 +62,7 @@ const HomeOne = () => {
             }}
           />
         </div> */}
-        <Testimonial padding={false} />
+        {/* <Testimonial padding={false} /> */}
         {/* <Blog /> */}
       </main>
       <FaqArea />

@@ -1,4 +1,4 @@
-import faq_img from "@/assets/img/WhatsApp Image 2025-02-09 at 10.52.34 AM.jpeg";
+import faq_img from "@/assets/img/sai spandana images/about us/about_us_section_of_website_indian_classical (1).jpeg";
 import Faq from "@/components/common/Faq";
 import Image from "next/image";
 

@@ -3,7 +3,7 @@ import Count from "@/components/common/Count";
 import Link from "next/link";
 
 import about_thumb from "@/assets/img/about/about-3.jpg";
-import image from "@/assets/img/kanchan1.jpeg";
+import image from "@/assets/img/sai spandana images/classical/Indo Western Music.jpeg";
 import about_arrow from "@/assets/img/arrow-shape.png";
 
 interface ContentType {
@@ -16,40 +16,42 @@ interface ContentType {
 
 const about_content: ContentType = {
   sub_title: "ABOUT",
-  title: "Who is Kanchan Ma’am?",
+  title: "What is Sai spandana?",
   desc_1: (
     <>
-      Kanchan is a
-      <span style={{ color: "#ffe000" }}> renowned mindset coach </span> and
+      Sai Spandana is a
+      <span style={{ color: "#ffe000" }}> Musical Academy </span> and
       <span style={{ color: "#ffe000" }}>
         {" "}
-        academic performance coach and also a trainer
+        is more than just a music school
       </span>{" "}
-      who specializes in personal development, motivation, and transformation.
-      With years of experience in{" "}
+      —it’s a cultural movement dedicated to preserving and evolving the rich
+      traditions of Indian classical music Founded by
       <span style={{ color: "#ffe000" }}>
         {" "}
-        seminars, webinars, and life coaching
+        y Dr. Neelam Patel & Prithvi Raj
       </span>
-      , she has empowered individuals to break their mental barriers and achieve
-      their true potential.
+      , the academy is known for its structured training in vocals, tabla,
+      harmonium, ghazal, and live performance.
     </>
   ),
   desc_2: (
     <>
-      Her coaching methods blend{" "}
-      <span style={{ color: "#ffe000" }}>
+      Why We Stand Out:{" "}
+      {/* <span style={{ color: "#ffe000" }}>
         psychology, neuroscience, and practical techniques
       </span>{" "}
       to help you create lasting change. Whether it&apos;s career growth,
       business success, or personal fulfillment—Kanchan&apos;s guidance can make
-      all the difference.
+      all the difference. */}
     </>
   ),
   list: [
-    "Certified Mindset Trainer & Life Coach",
-    "Speaker at National & International Seminars",
-    "Proven Techniques for Mindset Transformation",
+    "Expert-Led Training – Courses crafted by maestros & industry experts",
+    "Structured Learning Path – From beginner to professional levels",
+    "Collaborative Environment – Engage with renowned musicians & mentors",
+    "Fusion of Tradition & Modernity – Classical techniques with contemporary insights",
+    "Performance & Recognition – Participate in concerts, competitions & digital showcases",
   ],
 };
 
