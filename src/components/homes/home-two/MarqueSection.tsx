@@ -14,7 +14,7 @@ const MarqueSection = () => {
                 className="text-slider style-2"
                 style={{ color: "white", WebkitTextStrokeColor: "white" }}
               >
-                Unlock
+                Comprehensive Courses –
               </span>{" "}
               <span
                 className="text-slider style-2"
@@ -26,33 +26,33 @@ const MarqueSection = () => {
                 className="text-slider"
                 style={{ color: "white", WebkitTextStrokeColor: "white" }}
               >
-                Potential
+                Certified Instructors –
               </span>{" "}
               <span
                 className="text-slider style-2"
                 style={{ color: "white", WebkitTextStrokeColor: "white" }}
               >
-                with
+                Personalized Learning –
               </span>{" "}
               <span
                 className="text-slider style-2"
                 style={{ color: "white", WebkitTextStrokeColor: "white" }}
               >
-                Kanchan
+                Live Performances & Events –
               </span>{" "}
               <span
                 className="text-slider"
                 style={{ color: "white", WebkitTextStrokeColor: "white" }}
               >
-                Transform
+                Flexible Learning Modes –
               </span>{" "}
               <span
                 className="text-slider"
                 style={{ color: "white", WebkitTextStrokeColor: "white" }}
               >
-                Your
+                Career & Certification –
               </span>{" "}
-              <span
+              {/* <span
                 className="text-slider style-2"
                 style={{ color: "white", WebkitTextStrokeColor: "white" }}
               >
@@ -75,7 +75,7 @@ const MarqueSection = () => {
                 style={{ color: "white", WebkitTextStrokeColor: "white" }}
               >
                 Life
-              </span>{" "}
+              </span>{" "} */}
               {/* <span
                 className="text-slider style-2"
                 style={{ color: "white", WebkitTextStrokeColor: "white" }}

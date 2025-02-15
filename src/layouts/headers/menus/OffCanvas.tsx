@@ -16,7 +16,7 @@ const OffCanvas = ({ offCanvas, setOffCanvas }: any) => {
                 <div className="offcanvas__logo">
                   <Link href="/">
                     {/* <Image src={logo} alt="logo-img" /> */}
-                    Coach Kanchan
+                    Sai Spandana
                   </Link>
                 </div>
                 <div className="offcanvas__close">
@@ -26,12 +26,11 @@ const OffCanvas = ({ offCanvas, setOffCanvas }: any) => {
                 </div>
               </div>
               <p className="text d-none d-lg-block">
-                Kanchan Ma’am is a renowned mindset coach, speaker, and trainer
-                who has dedicated her life to helping individuals unlock their
-                full potential. With years of experience in personal
-                development, motivation, and transformation, she has impacted
-                thousands of lives through her powerful seminars, webinars, and
-                coaching programs.
+                Welcome to Sai Spandana Musical Academy, where passion
+                transforms into melody! Led by Dr. Neelam Patel, a maestro in
+                Hindustani classical music, and Prithvi Raj, an expert musician,
+                our academy is a hub for learning and experiencing the essence
+                of Indian classical and contemporary music.
               </p>
               <div className="mobile-menu fix mb-5 mean-container d-block d-lg-none">
                 <div className="mean-bar">
@@ -60,7 +59,7 @@ const OffCanvas = ({ offCanvas, setOffCanvas }: any) => {
                     <div className="offcanvas__contact-text">
                       <Link href="tel:+013-003-003-9993">
                         <span className="mailto:info@enofik.com">
-                          info@coachkanchan.com
+                          info@SaiSpandana.com
                         </span>
                       </Link>
                     </div>

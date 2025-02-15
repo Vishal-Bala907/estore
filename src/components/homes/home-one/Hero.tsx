@@ -111,17 +111,16 @@ const Hero = () => {
                       <div className="hero-content">
                         <h2 data-animation="fadeInUp" data-delay="1.3s">
                           {/* Welcome to{" "} */}
-                          Kanchan The &nbsp;
+                          Welcome to &nbsp;
                           <span style={{ color: "#ffe000" }}>
-                            Mindset Coach
+                            Sai Spandana <br /> Musical Academy
                           </span>
                         </h2>
                         <h2 data-animation="fadeInUp" data-delay="1.5s">
-                          Unlock Your Potential with Kanchan <br />- Transform
-                          Your Mind <br /> - Transform Your Life!
+                          where passion transforms <br /> into melody
                         </h2>
                         <p style={{ color: "white", whiteSpace: "none" }}>
-                          Take Charge of Your Mindset & Growth!
+                          Explore Our Musical Universe:
                         </p>
                         <div className="hero-button">
                           <Link

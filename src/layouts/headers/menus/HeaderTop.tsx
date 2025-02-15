@@ -9,13 +9,13 @@ const HeaderTop = () => {
             <li>
               <i className="fas fa-paper-plane me-2"></i>
               <Link href="mailto:info@example.com" className="link">
-                info@kanchan.co.in
+                info@SaiSpandana.co.in
               </Link>
             </li>
-            <li>
+            {/* <li>
               <i className="fas fa-map-marker-alt me-2"></i>
               F-7, Arunoday Complex, Opp. Little Hut, GIDC Estate Ankleshwar.
-            </li>
+            </li> */}
           </ul>
         </div>
       </div>

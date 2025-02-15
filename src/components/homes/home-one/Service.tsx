@@ -9,7 +9,9 @@ const Service = () => {
         <div className="section-title text-center mb-4 mt-md-0">
           <span className="wow fadeInUp">Our Services & Programs</span>
           <h2 className="wow fadeInUp" data-wow-delay=".3s">
-            provides the best service for <br /> sustainable progress
+            Online & Offline Music Courses <br />
+            Expert Mentorship <br />
+            Live Performance Training
           </h2>
         </div>
         <div className="row g-4">

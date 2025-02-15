@@ -23,6 +23,7 @@ const NavMenu = () => {
       const user = localStorage.getItem("user");
       try {
         setRole(user ? JSON.parse(user)?.role : null);
+        console.log(ROLE);
       } catch (error) {
         console.error("Error parsing user data from localStorage:", error);
         setRole(null);
