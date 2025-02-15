@@ -2,14 +2,14 @@ import Service from "@/components/inner-pages/services/service";
 import Wrapper from "@/layouts/Wrapper";
 
 export const metadata = {
-  title: "Dr. Kanchan",
+  title: "Sai Spandana ",
 };
 const index = () => {
   return (
     <Wrapper>
       <Service />
     </Wrapper>
-  )
-}
+  );
+};
 
-export default index
+export default index;

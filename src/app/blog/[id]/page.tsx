@@ -3,8 +3,7 @@ import Wrapper from "@/layouts/Wrapper";
 import React from "react";
 
 export const metadata = {
-  title:
-    "Blog Details kanchan -",
+  title: "Blog Details Sai Spandana  -",
 };
 const page = async ({ params }: { params: { id: string } }) => {
   const { id } = await params;

@@ -29,7 +29,7 @@ const about_data: DataType = {
       {/* <span style={{ color: "#ffe000" }}> Since 1984 </span> */}
     </>
   ),
-  desc: "Whether you’re striving for personal growth, professional success, or a balanced life, Kanchan Ma’am is here to guide you with proven techniques and strategies. Through *seminars, webinars, and personalized coaching*, she has transformed the lives of thousands.",
+  desc: "Whether you’re striving for personal growth, professional success, or a balanced life, Sai Spandana  Ma’am is here to guide you with proven techniques and strategies. Through *seminars, webinars, and personalized coaching*, she has transformed the lives of thousands.",
   about_list: [
     "Join now and embark on a journey toward *self-mastery and success!",
   ],
@@ -119,17 +119,18 @@ const About = () => {
               <div className="col-xl-6 col-lg-8 mt-5 mt-xl-0">
                 <div className="about-content">
                   <div className="section-title">
-                    <span className="wow fadeInUp">Dr. Kanchan</span>
+                    <span className="wow fadeInUp">Sai Spandana </span>
                     <h2 className="wow fadeInUp" data-wow-delay=".3s">
                       {title}
                     </h2>
                   </div>
                   <p className="mt-4 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
                     Whether you&apos;re striving for personal growth,
-                    professional success, or a balanced life, Kanchan Ma&apos;am
-                    is here to guide you with proven techniques and strategies.
-                    Through <b>seminars, webinars, and personalized coaching</b>
-                    , she has transformed the lives of thousands.
+                    professional success, or a balanced life, Sai Spandana
+                    Ma&apos;am is here to guide you with proven techniques and
+                    strategies. Through{" "}
+                    <b>seminars, webinars, and personalized coaching</b>, she
+                    has transformed the lives of thousands.
                   </p>
                   <ul className="wow fadeInUp" data-wow-delay=".7s">
                     {about_list.map((list, i) => (

@@ -2,7 +2,7 @@ import Contact from "@/components/inner-pages/contact";
 import Wrapper from "@/layouts/Wrapper";
 
 export const metadata = {
-  title: "Dr. Kanchan",
+  title: "Sai Spandana ",
 };
 const index = () => {
   return (

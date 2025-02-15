@@ -3,7 +3,7 @@ import Wrapper from "@/layouts/Wrapper";
 import { ToastContainer } from "react-toastify";
 
 export const metadata = {
-  title: "Dr. Kanchan",
+  title: "Sai Spandana ",
 };
 const index = () => {
   return (

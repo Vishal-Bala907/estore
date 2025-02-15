@@ -111,7 +111,7 @@ const AboutArea = () => {
                   {desc_2}
                 </p>
                 <h4 style={{ margin: "12px 0px" }}>
-                  Why Choose Kanchan Ma’am?
+                  Why Choose Sai Spandana Ma’am?
                 </h4>
                 <ul
                   className="wow fadeInUp"

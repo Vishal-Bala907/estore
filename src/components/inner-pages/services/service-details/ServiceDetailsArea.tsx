@@ -83,7 +83,7 @@ const ServiceDetailsArea = ({ id }: any) => {
         key: process.env.NEXT_PUBLIC_RAZORPAY_KEY_ID,
         amount: order.amount,
         currency: order.currency,
-        name: "Kanchan Mindset Coach",
+        name: "Sai Spandana  Mindset Coach",
         description: "Payment for Order",
         order_id: order.id,
         handler: async function (response: any) {

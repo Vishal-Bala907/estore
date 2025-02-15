@@ -2,7 +2,7 @@ import Gallery from "@/components/inner-pages/gallery";
 import Wrapper from "@/layouts/Wrapper";
 
 export const metadata = {
-  title: "Dr. Kanchan",
+  title: "Sai Spandana ",
 };
 const index = () => {
   return (

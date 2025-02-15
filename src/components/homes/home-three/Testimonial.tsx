@@ -54,8 +54,8 @@ const testi_data: DataType[] = [
     ),
     desc_2: (
       <>
-        That is when I had a talk Kanchan Ma&apos;am. I still remember that 45
-        minutes call entirely changed my path and way of thinking.. The self
+        That is when I had a talk Sai Spandana Ma&apos;am. I still remember that
+        45 minutes call entirely changed my path and way of thinking.. The self
         believe came back in me and I knew that I can do what we call the
         best... She indeed improved me from average to brilliant student.. I am
         really grateful to have had a mentor and family like her during my
@@ -74,7 +74,7 @@ const testi_data: DataType[] = [
         I still remember it was Aug 2023 and I was a usual aspirant struggling
         hard to overcome my fear. By the word fear I don&apos;t mean maths or
         any subject fear but my perceptive on different things right at that
-        time I got to know about kanchan mam.
+        time I got to know about Sai Spandana mam.
       </>
     ),
     desc_2: (
@@ -104,18 +104,19 @@ const testi_data: DataType[] = [
     desc_2: (
       <>
         {" "}
-        Coach Kanchan kabra...... Her mindset techniques helped me understand
-        that my worth isn&apos;t tied to my grades. Through her guidance, I
-        learned to manage stress, developed effective study habits, and improved
-        my self-confidence. Some of the techniques for this were writing small
-        goals and accomplish them daily ,journalizing ,deep breathing ,self talk
-        ,proven methods of study ,etc ..My grades improved naturally as my
-        mental health got better. This book is a must-read for parents and
-        teachers who might not realize that behind every &apos;lazy&apos; or
-        &apos;unmotivated&apos; student, there could be unaddressed emotional
-        challenges. If you&apos;re a student feeling overwhelmed or a parent
-        wanting to support your child better, this book provides the
-        understanding and tools that traditional academic advice often misses.
+        Coach Sai Spandana kabra...... Her mindset techniques helped me
+        understand that my worth isn&apos;t tied to my grades. Through her
+        guidance, I learned to manage stress, developed effective study habits,
+        and improved my self-confidence. Some of the techniques for this were
+        writing small goals and accomplish them daily ,journalizing ,deep
+        breathing ,self talk ,proven methods of study ,etc ..My grades improved
+        naturally as my mental health got better. This book is a must-read for
+        parents and teachers who might not realize that behind every
+        &apos;lazy&apos; or &apos;unmotivated&apos; student, there could be
+        unaddressed emotional challenges. If you&apos;re a student feeling
+        overwhelmed or a parent wanting to support your child better, this book
+        provides the understanding and tools that traditional academic advice
+        often misses.
       </>
     ),
     avatar: avatar_4,
@@ -188,7 +189,7 @@ const Testimonial = ({ padding }: any) => {
         <div className="section-title text-center">
           <span className="wow fadeInUp">PUBLIC TESTIMONIAL</span>
           <h2 className="wow fadeInUp" data-wow-delay=".3s">
-            public feedback about Dr. Kanchan Ji Ma&apos;m
+            public feedback about Sai Spandana Ji Ma&apos;m
           </h2>
         </div>
         <Swiper

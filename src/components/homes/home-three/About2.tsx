@@ -42,7 +42,7 @@ const about_content: ContentType = {
         psychology, neuroscience, and practical techniques
       </span>{" "}
       to help you create lasting change. Whether it&apos;s career growth,
-      business success, or personal fulfillment—Kanchan&apos;s guidance can make
+      business success, or personal fulfillment—Sai Spandana &apos;s guidance can make
       all the difference. */}
     </>
   ),

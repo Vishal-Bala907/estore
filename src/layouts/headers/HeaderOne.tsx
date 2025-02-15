@@ -42,7 +42,7 @@ const HeaderOne = ({ headerTop }: any) => {
                           width: "auto",
                         }}
                       />
-                      {/* Coach Kanchan */}
+                      {/* Coach Sai Spandana  */}
                       {/* <img src="/assets/img/logo.jpeg" alt="img" /> */}
                     </Link>
                   </div>

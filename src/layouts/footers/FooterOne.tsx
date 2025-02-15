@@ -19,7 +19,7 @@ const FooterOne = () => {
                 <div className="widget-head">
                   <Link href="/">
                     {/* <Image src={logo} alt="logo-img" /> */}
-                    Coach Kanchan
+                    Coach Sai Spandana
                   </Link>
                 </div>
                 <div className="footer-content">
